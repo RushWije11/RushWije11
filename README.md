@@ -22,20 +22,19 @@ I am a passionate **Software Engineering Student** from **Colombo,Sri lanka**. I
 
 
 ---
-
-### 📊 GitHub Stats
+### 📊 My GitHub Profile
 
 ### 📊 My GitHub Stats
 
 <p align="left">
-  <!-- GitHub Stats Card -->
+  <!-- ඔයාගේ GitHub Profile Photo එක කෙලින්ම ලෝඩ් වෙනවා -->
   <a href="https://github.com/RushWije11">
-    <img src="https://github-readme-stats.vercel.app/api?username=RushWije11&show_icons=true&theme=radial&hide_border=true&include_all_commits=true&count_private=true" alt="RushWije11's GitHub Stats" height="180px" />
+    <img src="https://github.com/RushWije11.png" alt="RushWije11's Profile Picture" height="180px" style="border-radius: 50%;" />
   </a>
   
-  <!-- GitHub Streak Card (අලුත් එකවුන්ට් වලටත් වැඩ කරන සුපිරි කාඩ් එකක්) -->
+  <!-- සර්වර් අවුලක් නැතුව වැඩ කරන Streak Card එක -->
   <a href="https://github.com/RushWije11">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RushWije11&theme=radial&hide_border=true" alt="RushWije11's Streak" height="180px" />
+    <img src="https://github-profile-streak-stats.herokuapp.com/?user=RushWije11&theme=radial&hide_border=true" alt="RushWije11's Streak" height="180px" />
   </a>
 </p>
 ### 🤝 Connect with Me
