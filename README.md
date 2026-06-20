@@ -27,8 +27,6 @@ I am a passionate **Software Engineering Student** from **Colombo,Sri lanka**. I
 
 ### 📊 My GitHub Stats
 
-### 📊 My GitHub Stats
-
 <p align="left">
   
   <a href="https://github.com/RushWije11">
