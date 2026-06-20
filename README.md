@@ -27,9 +27,9 @@ I am a passionate **Software Engineering Student** from **Colombo,Sri lanka**. I
 ### 📊 My GitHub Stats
 
 <p align="left">
-  <!-- GitHub Stats Card -->
+
   <a href="https://github.com/RushWije11">
-    <img src="https://github-readme-stats.vercel.app/api?username=RushWije11&show_icons=true&theme=radial&hide_border=true&include_all_commits=true&count_private=true" alt="RushWije11's GitHub Stats" height="180px" />
+    <img src="https://github.com/RushWije11.png" alt="RushWije11's Profile Picture" height="160px" style="border-radius: 10px;" />
   </a>
   
   <!-- GitHub Streak Card (අලුත් එකවුන්ට් වලටත් වැඩ කරන සුපිරි කාඩ් එකක්) -->
