@@ -10,7 +10,7 @@ I am a passionate **Software Engineering Student** from **Colombo,Sri lanka**. I
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools (Pending)
 
 | Category | Technologies |
 | :--- | :--- |
