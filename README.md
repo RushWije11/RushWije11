@@ -40,7 +40,7 @@ I am a passionate **Software Engineering Student** from **Colombo,Sri lanka**. I
   <a href="https://twitter.com/YOUR-TWITTER" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:rushwijegithub@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
