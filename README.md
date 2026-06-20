@@ -19,7 +19,7 @@ I am a passionate **Software Engineering Student** from **Colombo,Sri lanka**. I
 | **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59?style=for-the-badge&logo=express&logoColor=61DAFB) |
 | **Tools/DBs** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
 
-*(Note: You can find and customize more badges at [Shields.io](https://shields.io/))*
+
 
 ---
 
@@ -34,7 +34,7 @@ I am a passionate **Software Engineering Student** from **Colombo,Sri lanka**. I
 
 ### 🤝 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/tharushwijemanna/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/YOUR-TWITTER" target="_blank">
