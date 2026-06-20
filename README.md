@@ -27,13 +27,12 @@ I am a passionate **Software Engineering Student** from **Colombo,Sri lanka**. I
 ### 📊 My GitHub Stats
 
 <p align="left">
-
   <a href="https://github.com/RushWije11">
-    <img src="https://github.com/RushWije11.png" alt="RushWije11's Profile Picture" height="180px" style="border-radius: 50%;" />
+    <img src="https://github.com/RushWije11.png" alt="RushWije11's Profile Picture" height="160px" style="border-radius: 10px;" />
   </a>
-  </p>
-<p align="left"> <a href="https://github.com/RushWije11">
-    <img src="https://github-profile-streak-stats.herokuapp.com/?user=RushWije11&theme=radial&hide_border=true" alt="RushWije11's Streak" height="180px" />
+  
+  <a href="https://github.com/RushWije11">
+    <img src="https://github-profile-trophy.vercel.app/?username=RushWije11&theme=radial&column=1&margin-w=15" alt="RushWije11's Trophy" height="160px" />
   </a>
 </p>
 ### 🤝 Connect with Me
