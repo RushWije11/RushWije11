@@ -27,18 +27,19 @@ I am a passionate **Software Engineering Student** from **Colombo,Sri lanka**. I
 
 ### 📊 My GitHub Stats
 
+### 📊 My GitHub Stats
+
 <p align="left">
-  <!-- Clicking this image takes the user to your GitHub overview -->
+  
   <a href="https://github.com/RushWije11">
-    <img src="https://github-readme-stats.vercel.app/api?username=RushWije11&show_icons=true&theme=radial&hide_border=true" alt="RushWije11's GitHub Stats" height="180px" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RushWije11&theme=radial" alt="RushWije11's GitHub Stats" height="180px" />
   </a>
   
-  <!-- Clicking this image takes the user to your repositories -->
+
   <a href="https://github.com/RushWije11?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushWije11&layout=compact&theme=radial&hide_border=true" alt="RushWije11's Top Languages" height="180px" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RushWije11&theme=radial" alt="RushWije11's Top Languages" height="180px" />
   </a>
 </p>
----
 
 ### 🤝 Connect with Me
 <p align="left">
