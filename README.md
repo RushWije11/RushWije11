@@ -31,8 +31,8 @@ I am a passionate **Software Engineering Student** from **Colombo,Sri lanka**. I
   <a href="https://github.com/RushWije11">
     <img src="https://github.com/RushWije11.png" alt="RushWije11's Profile Picture" height="180px" style="border-radius: 50%;" />
   </a>
-  
- <a href="https://github.com/RushWije11">
+  </p>
+<p align="left"> <a href="https://github.com/RushWije11">
     <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=RushWije11&show_icons=true&theme=radial&hide_border=true&include_all_commits=true&count_private=true" alt="RushWije11's GitHub Stats" height="180px" />
   </a>
 </p>
