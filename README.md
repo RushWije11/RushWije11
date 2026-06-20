@@ -1,12 +1,12 @@
 # Hi there, I'm RushWije11! 👋
 
 ### 🚀 About Me
-I am a passionate **[Your Role, e.g., Full-Stack Developer / Data Scientist / Student]** from **[Your Location]**. I love building things that solve real-world problems and constantly learning new technologies.
+I am a passionate **Software Engineering Student** from **Colombo,Sri lanka**. I love building things that solve real-world problems and constantly learning new technologies.
 
-- 🔭 I’m currently working on **[Project Name or Tech Stack]**
-- 🌱 I’m currently learning **[A technology you're mastering, e.g., Docker, Go, AI]**
-- 💬 Ask me about **[Your areas of expertise, e.g., React, Python, UI Design]**
-- ⚡ Fun fact: **[A fun or quirky fact about yourself]**
+- 🔭 I’m currently working on **Pending**
+- 🌱 I’m currently learning **Software Engineering**
+- 💬 Ask me about **Pending**
+- ⚡ Fun fact: **I'm the best**
 
 ---
 
