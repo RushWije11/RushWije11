@@ -26,8 +26,8 @@ I am a passionate **Software Engineering Student** from **Colombo,Sri lanka**. I
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radial&hide_border=true" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RushWije11&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushWije11&layout=compact&theme=radial&hide_border=true" alt="Top Languages" height="180px" />
 </p>
 
 ---
