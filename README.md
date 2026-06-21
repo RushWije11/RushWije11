@@ -74,21 +74,18 @@
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="35px"></picture> GitHub Stats   
 
 <p align="center">
-  <!-- ඔයාගේ Profile Photo එක -->
   <a href="https://github.com/RushWije11">
     <img src="https://github.com/RushWije11.png" alt="Profile Picture" height="165px" style="border-radius: 10px;" />
   </a>
 
-  <!-- 100%ක් වැඩ කරන Trophy Card එක -->
-  <a href="https://github.com/RushWije11">
-    <img src="https://github-profile-trophy.vercel.app/?username=RushWije11&theme=algolia&column=2&margin-w=15" alt="Trophy" height="165px" />
-  </a>
+ 
+
 </p>
 
 <p align="center">
-  <!-- 100%ක් වැඩ කරන Streak Card එක -->
+
   <a href="https://github.com/RushWije11">
-    <img src="https://github-profile-streak-stats.herokuapp.com/?user=RushWije11&theme=algolia&hide_border=true" alt="Streak" height="165px" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RushWije11&theme=dark" alt="Streak" height="165px" />
   </a>
 </p>
 
