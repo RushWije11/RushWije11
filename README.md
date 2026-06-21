@@ -97,6 +97,7 @@
 ## 🔗 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/dahamwijemanna/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/></a>
+    <a href="https://www.instagram.com/rush_wije_11/"><img src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="40"/></a>
 </p>
 
 
