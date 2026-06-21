@@ -1,51 +1,103 @@
-# Hi there, I'm RushWije11! 👋
+## Hi there 👋
+<h1 align="center">Hi, I'm Tharush Wijemanna <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-### 🚀 About Me
-I am a passionate **Software Engineering Student** from **Colombo,Sri lanka**. I love building things that solve real-world problems and constantly learning new technologies.
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+GitHub+profile!%F0%9F%91%8B;Aspiring+Software+Engineer;Software+Engineering+Student;Passionate+Developer;Tech+Enthusiast🚀;" alt="Headline" />
+</div>
 
-- 🔭 I’m currently working on **Pending**
-- 🌱 I’m currently learning **Software Engineering**
-- 💬 Ask me about **Pending**
-- ⚡ Fun fact: **I'm the best**
+<div align="center">
+    <h3>An Aspiring Software Engineer & Student at ICET</h3>
+    <p>The ever-evolving landscape of technology 🌐 has always intrigued me, driving my choice to pursue a career in software engineering. Currently studying Software Engineering at ICET (iCD 124), I love building digital experiences. I am dedicated to exploring modern tech stacks 💻 and leveraging them to build scalable, innovative solutions 🛠️.</p>
+</div>
 
----
+<br>
 
-### 🛠️ Tech Stack & Tools (Pending)
+<div align="center">
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="45" height="45" />
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="45" height="45" />
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="45" height="45" />
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="45" height="45" />
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="45" height="45" />
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="45" height="45" />
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="45" height="45" />
+    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="45" height="45" />
+</div>
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) |
-| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59?style=for-the-badge&logo=express&logoColor=61DAFB) |
-| **Tools/DBs** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
+<br>
+<hr>
 
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35px"></picture> About me
 
+<img align="right" height="220px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
----
-### 📊 My GitHub Profile
+- 🎓 **Education:** Software Engineering Student at **ICET (iCD 124)**.
+- 👷 **Working on:** Core software development concepts and mastering full-stack skills.
+- 🧑‍🤝‍🧑 **Collaborating on:** Web engineering, architecture, and UI/UX design components.
+- 🤝 **Open to:** Challenging coding projects, hackathons, and innovative open-source contributions.
+- 🌱 **Learning:** Java, Python, JavaScript/TypeScript ecosystems, and cloud foundations.
+- 💬 **Ask me about:** Java core concepts, frontend design patterns, or my life at ICET.
+- 📍 **Location:** Colombo, Sri Lanka 🇱🇰
 
-### 📊 My GitHub Stats
+<br>
 
+## 💻 Tech Stack
+
+### 🖥️ Frontend
 <p align="left">
+  <a href="https://html.spec.whatwg.org"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" /></a>
+  <a href="https://reactjs.org"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
+  <a href="https://getbootstrap.com"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a>
+</p>
 
+### ⚙️ Backend
+<p align="left">
+  <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+  <a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" /></a>
+  <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
+  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+</p>
+
+### 🗃️ Databases & Dev Tools
+<p align="left">
+  <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://postman.com"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a>
+  <a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
+</p>
+
+<br>
+
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="35px"></picture> GitHub Stats   
+
+<p align="center">
+  <!-- ඔයාගේ Profile Photo එක -->
   <a href="https://github.com/RushWije11">
-    <img src="https://github.com/RushWije11.png" alt="RushWije11's Profile Picture" height="160px" style="border-radius: 10px;" />
+    <img src="https://github.com/RushWije11.png" alt="Profile Picture" height="165px" style="border-radius: 10px;" />
   </a>
-  
-  <!-- GitHub Streak Card (අලුත් එකවුන්ට් වලටත් වැඩ කරන සුපිරි කාඩ් එකක්) -->
+
+  <!-- 100%ක් වැඩ කරන Trophy Card එක -->
   <a href="https://github.com/RushWije11">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RushWije11&theme=radial&hide_border=true" alt="RushWije11's Streak" height="180px" />
+    <img src="https://github-profile-trophy.vercel.app/?username=RushWije11&theme=algolia&column=2&margin-w=15" alt="Trophy" height="165px" />
   </a>
 </p>
-### 🤝 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/tharushwijemanna/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/YOUR-TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:rushwijegithub@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+
+<p align="center">
+  <!-- 100%ක් වැඩ කරන Streak Card එක -->
+  <a href="https://github.com/RushWije11">
+    <img src="https://github-profile-streak-stats.herokuapp.com/?user=RushWije11&theme=algolia&hide_border=true" alt="Streak" height="165px" />
   </a>
 </p>
+
+<br>
+
+## 🔗 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/dahamwijemanna/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/></a>
+</p>
+
+
+
